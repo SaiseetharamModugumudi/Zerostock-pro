@@ -1,0 +1,14 @@
+[
+  {"id": 1, "product_name": "Steel Rod", "category": "Metals", "quantity": 120, "price": 45.5, "supplier_id": 1},
+  {"id": 2, "product_name": "Aluminum Sheet", "category": "Metals", "quantity": 80, "price": 62.0, "supplier_id": 1},
+  {"id": 3, "product_name": "Copper Wire", "category": "Electronics", "quantity": 200, "price": 15.75, "supplier_id": 2},
+  {"id": 4, "product_name": "Plastic Granules", "category": "Polymers", "quantity": 300, "price": 8.2, "supplier_id": 2},
+  {"id": 5, "product_name": "Rubber Gasket", "category": "Industrial", "quantity": 500, "price": 2.5, "supplier_id": 3},
+  {"id": 6, "product_name": "Ceramic Tile", "category": "Construction", "quantity": 140, "price": 12.0, "supplier_id": 3},
+  {"id": 7, "product_name": "Glass Panel", "category": "Construction", "quantity": 60, "price": 38.99, "supplier_id": 1},
+  {"id": 8, "product_name": "Battery Cell", "category": "Electronics", "quantity": 420, "price": 4.95, "supplier_id": 2},
+  {"id": 9, "product_name": "Wood Plank", "category": "Construction", "quantity": 210, "price": 19.4, "supplier_id": 3},
+  {"id": 10, "product_name": "Packing Foam", "category": "Packaging", "quantity": 330, "price": 3.15, "supplier_id": 2},
+  {"id": 11, "product_name": "Cardboard Roll", "category": "Packaging", "quantity": 150, "price": 6.8, "supplier_id": 1},
+  {"id": 12, "product_name": "Iron Bolt", "category": "Industrial", "quantity": 1000, "price": 0.65, "supplier_id": 3}
+]
